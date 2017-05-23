@@ -9,4 +9,4 @@ try:
     rat1 = Rational(1,2)
     rat2 = Rational(2,0)
 except:
-    print("Cannot have rational no with 0")
+    print("Cannot hav rational no with 0")
